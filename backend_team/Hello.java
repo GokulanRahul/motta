@@ -11,7 +11,7 @@ public class Hello {
     System.out.println(collect);
     System.out.println("gokul");
     System.out.println("akash");
-    System.out.println("hello Team");
+    System.out.println("mohan");
 
   }
 }
